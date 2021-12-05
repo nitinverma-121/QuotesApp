@@ -1,7 +1,8 @@
 # quotes_app
 
-A new Flutter project.
-
+A new Flutter project. 
+This a simple application created using flutter frame work that provides the user with a new quote everytime the uder hiits the button "INSPIRE ME"
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
